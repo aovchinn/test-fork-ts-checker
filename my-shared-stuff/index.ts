@@ -3,5 +3,5 @@ a = "asd";
 export { a };
 
 let b = 1;
-b = "bsd";
+// b = "bsd";
 export { b };
